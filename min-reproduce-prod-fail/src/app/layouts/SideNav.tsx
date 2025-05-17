@@ -1,4 +1,3 @@
-// SideNav.tsx
 "use client";
 
 interface SideNavProps {

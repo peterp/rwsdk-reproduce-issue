@@ -1,4 +1,3 @@
-// "use server";
 
 import { RequestInfo } from "rwsdk/worker";
 import { BaseLayout } from "../layouts/BaseLayout";

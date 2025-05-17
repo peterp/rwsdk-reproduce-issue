@@ -1,4 +1,3 @@
-// Header.tsx
 "use client";
 
 interface HeaderProps {
